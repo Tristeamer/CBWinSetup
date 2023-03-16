@@ -10,7 +10,7 @@ Other than that useage should be quite simple:
 2. Run the downloaded `.exe` file
 3. fuck it we ball
 
-###**or**
+### **Or**
 
 1. Download the latest release from the releases page.
 2. repeat steps 2-3.
